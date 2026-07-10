@@ -7,6 +7,8 @@ This project predicts whether a passenger on the Titanic survived or not using M
 The project demonstrates the complete Machine Learning workflow, including data preprocessing, exploratory data analysis, model training, evaluation, hyperparameter tuning, and prediction.
 
 ---
+🔗 Live Application: [https://titanic-survival-predictor-yy0k.onrender.com]
+---
 
 ## 🎯 Objective
 
